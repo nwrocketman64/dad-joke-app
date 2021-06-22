@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dad Jokes App</string>
+    <string name="button">Button</string>
+    <string name="tap_the_button_to_get_a_dad_joke">Tap the button to get a dad joke</string>
+    <string name="dad_joke_bg">Dad Joke BG</string>
+    <string name="get_joke">Get Joke</string>
+</resources>
